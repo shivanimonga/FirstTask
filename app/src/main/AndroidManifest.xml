@@ -27,7 +27,7 @@
                   android:screenOrientation="portrait">
 
         </activity>
-    <activity android:name=".FavouriteActivity">
+    <activity android:name=".Activity.FavouriteActivity">
         android:screenOrientation="portrait"
     </activity>
     </application>
